@@ -1,0 +1,11 @@
+name: Compass Calendar
+website_url: https://www.compasscalendar.com
+description: Keyboard-first calendar with a minimal week view, a command palette, and optional two-way Google Calendar sync.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Calendar & Contacts
+source_code_url: https://github.com/KeepSoftwareSimple/compass-calendar
